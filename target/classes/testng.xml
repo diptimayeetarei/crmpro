@@ -1,0 +1,13 @@
+<suite name="crmpro Automation Suite">
+	<test name="crmpro feature test">
+
+		<classes>
+			<class name="com.qa.crmpro.testcases.HomePageTest" />
+			<class name="com.qa.crmpro.testcases.LoginPageTest" />
+			<!-- we can change  the class  -->
+			
+
+		</classes>
+	</test>
+
+</suite>
